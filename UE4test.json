@@ -1,16 +1,22 @@
 {
   "leaderboard info":[
     {
-      "Rank": "0",
+      "Rank": "1",
       "Name": "123",
       "Score": "000",
       "Time": "00"
     },
     {
-      "Rank": "1",
-      "Name": "1234",
-      "Score": "001",
-      "Time": "01"
+      "Rank1": "2",
+      "Name1": "1234",
+      "Score1": "001",
+      "Time1": "01"
+    },
+     {
+      "Rank2": "3",
+      "Name2": "12345",
+      "Score2": "0012",
+      "Time2": "012"
     }
   ]
 }
